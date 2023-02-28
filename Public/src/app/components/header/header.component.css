@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    padding: 30px;
+    background-color: slategray;
+    color: white;
+    text-shadow: 0 0 3px black;
+    margin: 0;
+}
+
+h2 {
+    letter-spacing: 3px;
+}
